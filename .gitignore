@@ -1,0 +1,11 @@
+.env
+testing.py
+**/__pycache__/
+config.txt
+config.txt
+config.ini
+.vscode/settings.json
+*.pyc
+**/.DS_Store
+*.log
+venv
